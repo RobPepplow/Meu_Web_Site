@@ -17,11 +17,11 @@ Agradeço a atenção e estou à disposição para fornecer mais informações, 
 # Sobre o Projeto
 
 
-Meu site de Apresentação Pessoal e Mues Projetos
+Meu site de Apresentação Pessoal.
 
 # Link projeto para visualização
 
-https://robpepplow.github.io/logincoresanimado/
+https://robpepplow.github.io/meu-web-site-apresentacao/
 
 
 
